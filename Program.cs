@@ -20,6 +20,7 @@ namespace sound
                 player.Play();
                 //code snippit = cl
                 Console.ReadLine();
+                Console.ReadLine();
             }
           
         }

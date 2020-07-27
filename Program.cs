@@ -17,6 +17,7 @@ namespace sound
                 //create a class
                 //creates an instance of the class
                 SoundPlayer player = new SoundPlayer(@"C:\Users\Leon\Documents\sound.wav");
+                //calls function to play sound
                 player.Play();
                 //code snippit = cl
                 Console.ReadLine();
